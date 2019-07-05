@@ -1,0 +1,16 @@
+{
+    "name": "fc6git/redis",
+    "description": "a test for composer",
+    "type": "project",
+    "require": {
+        "ext-pdo_mysql": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fcheng",
+            "email": "13510019657@139.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
