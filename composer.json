@@ -3,7 +3,6 @@
     "description": "a test for composer",
     "type": "project",
     "require": {
-        "ext-pdo_mysql": "*"
     },
     "license": "MIT",
     "authors": [
